@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning Software and Web Development
 
 ## Connect with Me!
-[![LinkedIn]](https://www.linkedin.com/in/jaedaaann/)
-[![LinkedIn]](https://www.facebook.com/mak.jowsep/)
+[LinkedIn](https://www.linkedin.com/in/jaedaaann/)
+[Facebook](https://www.facebook.com/mak.jowsep/)
 
 ## Facts about Me!
 - I love to watch movies/series.
