@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- Name: Mark Joseph Neypes
-- Nickname: Jaedan
-- Pronouns: He/Him
+- I am Mark Joseph Neypes
+- You can call me Jaedan
+- My pronouns are He/Him
 - 🔭 I’m a second-year computer science student at the Polytechnic University of the Philippines - Sta. Mesa Campus
 - 🌱 I’m currently learning Software and Web Development
 
