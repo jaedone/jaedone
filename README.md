@@ -17,7 +17,7 @@
 
 ## GitHub Stats
 <p align="center">
-  [(https://github-readme-stats.vercel.app/api?username=jaedan)](https://github.com/jaedan/github-readme-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaedone&show_icons=true&theme=tokyonight)
 </p>
 
 ---
