@@ -1,44 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-- I am Mark Joseph Neypes
-- You can call me Jaedan
-- My pronouns are He/Him
-- 🔭 I’m a second-year computer science student at the Polytechnic University of the Philippines - Sta. Mesa Campus
-- 🌱 I’m currently learning Software and Web Development
+<h1>Hi, I'm Jaedan👋</h1>
 
-## Connect with Me!
-[LinkedIn](https://www.linkedin.com/in/jaedaaann/)
-[Facebook](https://www.facebook.com/mak.jowsep/)
+<h3>Aspiring Full-Stack Developer 🚀</h3>
 
-## Facts about Me!
-- I love to watch movies/series.
-- My favorite Movie is Dune!
-- I am adventurous and sponty
+<p>
+🪪 Mark Joseph Neypes in real life
+🎓 Junior Computer Science Student at Polytechnic University of the Philippines <br>
+💡 Passionate about community projects, volunteering, and using tech to ease life <br>
+🌱 Currently learning Machine Learning and Web Development
+</p>
 
-## Organizations I am in
+</div>
 
------S.Y. 2023-2024-------
-- AWS Cloud Club - PUP Manila
-  - Operations and Events Officer Committee - Logistics
-  - Department of Machine Learning and Artificial Intelligence - Member
-    
-- PUP The Compiler Online
-  - Science and Technology Category Writer
+---
 
-- PUP Association of Students for Computer Intelligence Integrations
-  - Programs Committee
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaedone&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedone&layout=compact&theme=tokyonight" />
+</p>
 
-- PUP Manila Microsoft Student Community
-  - Consultant to the President
+---
 
-- PUP The Programmers' Guild
-  - Member
+## Connect with Me
+<p align="left">
+  <a href="https://github.com/jaedone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/YOURLINK](https://www.linkedin.com/in/jaedaaann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mak.jowsep"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
-- PUP Sentral na Konseho ng Mag-aaral
-  - Junior Council Officer for Academics Affairs and Developmental Studies
+---
 
-- PUP College of Computer Science and Informations Sciences Student Council
-  - Junior Council Officer for Community and People's Rights and Struggles
-
-- Agham Youth - PUP
-  - Integrations and Outreach Committee
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM4ZDhxbTY4Nmwya3VsaGwwdXJieW8wcWE5cHVobWc2MTNmaTVqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoOJJsB2a1C9sNW/giphy.gif" width="700" />
+</div>
