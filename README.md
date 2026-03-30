@@ -5,7 +5,7 @@
 <h3>Aspiring Full-Stack Developer 🚀</h3>
 
 <p>
-🪪 Mark Joseph Neypes in real life
+🪪 Mark Joseph Neypes in real life <br>
 🎓 Junior Computer Science Student at Polytechnic University of the Philippines <br>
 💡 Passionate about community projects, volunteering, and using tech to ease life <br>
 🌱 Currently learning Machine Learning and Web Development
@@ -17,8 +17,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaedone&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedone&layout=compact&theme=tokyonight" />
+  [(https://github-readme-stats.vercel.app/api?username=jaedan)](https://github.com/jaedan/github-readme-stats)
 </p>
 
 ---
